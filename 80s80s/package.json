@@ -27,7 +27,7 @@
 		"kew": "^0.7.0",
 		"v-conf": "^1.4.0",
 		"nanotimer": "^0.3.15",
-		"moment": "2.22.1"
+		"moment": "2.29.4"
 	},
 	"engines": {
 		"volumio": ">=0",
