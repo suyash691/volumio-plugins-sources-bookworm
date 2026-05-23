@@ -62,7 +62,7 @@
 		"countries-and-timezones": "^3.5.1",
 		"ejs": "^3.1.9",
 		"escape-html": "^1.0.3",
-		"express": "^4.21.1",
+		"express": "^4.22.2",
 		"genius-fetch": "^1.0.0",
 		"install": "^0.13.0",
 		"jsonfile": "^6.1.0",
