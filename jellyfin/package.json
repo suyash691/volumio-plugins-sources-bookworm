@@ -51,7 +51,7 @@
 		"kew": "^0.7.0",
 		"now-playing-common": "git+https://github.com/patrickkfkan/volumio-now-playing-common#v0.3.0",
 		"string-format": "^2.0.0",
-		"uuid": "^9.0.0",
+		"uuid": "^14.0.0",
 		"v-conf": "^1.4.2"
 	}
 }
