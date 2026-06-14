@@ -27,11 +27,11 @@
 		"fs-extra": "^0.28.0",
 		"kew": "^0.7.0",
 		"node-cache": "^4.1.1",
-		"socket.io-client": "2.1.1",
+		"socket.io-client": "4.8.3",
 		"spotify-web-api-node": "^5.0.2",
 		"superagent": "^8.1.0",
 		"v-conf": "^1.4.2",
-		"ws": "^8.13.0"
+		"ws": "^8.21.0"
 	},
 	"engines": {
 		"volumio": ">=4",
