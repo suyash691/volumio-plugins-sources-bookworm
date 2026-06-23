@@ -26,7 +26,7 @@
     "@iiot2k/gpiox": "^2.1.4",
     "fs-extra": "^0.28.0",
     "kew": "^0.7.0",
-    "socket.io-client": "1.7.4",
+    "socket.io-client": "4.8.3",
     "v-conf": "^1.4.0"
   },
   "engines": {
