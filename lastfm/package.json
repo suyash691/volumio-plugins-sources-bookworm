@@ -31,7 +31,7 @@
 		"fs-extra": "^0.28.0",
 		"kew": "^0.7.0",
 		"simple-lastfm": "https://github.com/Saiyato/simple-lastfm/tarball/f5f1d1010d9e5abfb354d8db623c7d07c34d70db",
-		"socket.io-client": "^1.4.8",
+		"socket.io-client": "^4.8.3",
 		"v-conf": "^0.10.0"
 	},
 	"repository": "https://github.com/Saiyato/volumio-lastfm-plugin",
